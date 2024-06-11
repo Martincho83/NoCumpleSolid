@@ -1,0 +1,14 @@
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\bin\Debug\net8.0\NoSolid.exe
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\bin\Debug\net8.0\NoSolid.deps.json
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\bin\Debug\net8.0\NoSolid.runtimeconfig.json
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\bin\Debug\net8.0\NoSolid.dll
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\bin\Debug\net8.0\NoSolid.pdb
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.AssemblyInfoInputs.cache
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.AssemblyInfo.cs
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.csproj.CoreCompileInputs.cache
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.dll
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\refint\NoSolid.dll
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.pdb
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\NoSolid.genruntimeconfig.cache
+C:\Users\martin\Downloads\LabSoft\NoSolid\NoSolid\obj\Debug\net8.0\ref\NoSolid.dll
